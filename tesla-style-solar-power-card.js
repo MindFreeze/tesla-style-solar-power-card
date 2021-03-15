@@ -247,6 +247,9 @@ class TeslaStyleSolarPowerCard extends HTMLElement {
     color: var(--primary-text-color);
     border-color: var(--primary-text-color);
   }
+  .acc_container.active {
+    box-shadow: 0px 0px 4px 0px var(--primary-text-color);
+  }
   .acc_icon {
     --mdc-icon-size: 40px;
   }

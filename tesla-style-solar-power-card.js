@@ -242,7 +242,7 @@ class TeslaStyleSolarPowerCard extends HTMLElement {
     height: 40px;
     width: 40px;
     border: 1px solid black;
-    border-radius: 100px;
+    border-radius: 50%;
     padding: 22px;
     color: var(--primary-text-color);
     border-color: var(--primary-text-color);
